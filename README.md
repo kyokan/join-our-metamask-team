@@ -15,6 +15,7 @@ We are a team of three, ready and eager to grow to a team of four. We are lookin
 - is looking to work with a self-managed team that values collective decision making
 - will bring energy and passion to work on MetaMask and the broader technical solutions and visions we aspire to
 - is based in Canada, in either Eastern, Atlantic or Newfoundland/Labrador time zones
+- prefers to work remotely, and able to travel to meet-up with teammates 3-4 times a year
 
 [Click here if you are ready to apply.](https://github.com/kyokan/join-team-metamask/blob/master/APPLY.md)
 
