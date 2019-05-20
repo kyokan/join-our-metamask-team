@@ -33,4 +33,4 @@ You would join this team as an equal member, with equal opportunity to have imme
 - ability and excitement to work with a self-managed team that values collective decision making
 - excitement to work on MetaMask and the broader technical solutions and visions we aspire to
 
-This role is for people based in Canada, in either Eastern, Atlantic or Newfoundland/Labrador time zones
+This role is for people based in Canada, in either Eastern, Atlantic or Newfoundland/Labrador time zones. It is remote, with an expectation that the team will meet up in person (in eastern Canada) 3-4 times a year.
