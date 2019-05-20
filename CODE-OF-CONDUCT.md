@@ -5,7 +5,7 @@ Below is a code of conduct expected of all members of the Kyokan-MetaMask team.
 ## Our Pledge
 
 In the interest of fostering an healthy and empowering work environment, we as
-Kyokan-MetaMask team member pledge to making our workplace and the projects we work with harassment-free spaces for everyone, regardless of age, body
+Kyokan-MetaMask team members pledge to make our workplace and the projects we work with harassment-free spaces for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, sexual identity and orientation, or anything else.
@@ -35,12 +35,12 @@ Examples of unacceptable behavior by participants include:
 ## Scope
 
 This Code of Conduct applies within all meetings and async communication spaces, and also when
-we are meeting in person. The expectations we set hear apply to how we treat each other within our team, how we treat people who work on MetaMask and other projects we collaborate within, open source contributors to projects we work and all others who we interact with.
+we are meeting in person. The expectations we set hear apply to how we treat each other within our team, how we treat people who work on MetaMask and other projects we collaborate within, open source contributors to projects we work on and all others  we interact with.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by any of us to any of us. Violations of this code of conduct will likely be considered a fireable offense.
+reported by any of us to any of us and will be addressed immediately. Violations of this code of conduct will likely be considered a fireable offense.
 
 ## Attribution
 
