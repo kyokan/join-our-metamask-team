@@ -23,7 +23,7 @@ Know someone who would be great for this role? Encourage them to apply and you w
 
 Read more:
 - [people](https://github.com/kyokan/join-team-metamask/blob/master/PEOPLE.md)
-- [project](https://github.com/MetaMask/metamask-extension/)
+- [project](https://github.com/kyokan/join-our-metamask-team/blob/master/ABOUT-METAMASK.md)
 - [hiring process](https://github.com/kyokan/join-team-metamask/blob/master/HIRING-PROCESS.md)
 - [position](https://github.com/kyokan/join-team-metamask/blob/master/POSITION.md)
 - [perks and policies](https://github.com/kyokan/join-team-metamask/blob/master/PERKS-POLICIES.md)
