@@ -1,3 +1,4 @@
+## Note: while everything in this repo holds true, a more recent and refined job description can be found here: https://angel.co/company/kyokan/jobs/532488-software-engineer-metamask
 
 Hi! This repo is dedicated to helping you or someone you know join the Kyokan-MetaMask team.
 
